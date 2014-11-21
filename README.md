@@ -10,3 +10,5 @@ var rectify = require('re-define-react')({
     extensions: ['.js', '.jsx'] //defaults
   })
 ```
+
+### [Example](https://github.com/damianbaar/react-re-define-test)
