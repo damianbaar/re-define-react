@@ -9,6 +9,7 @@
   "author": "Damian Baar <damian.baar@gmail.com> (http://github.com/damianbaar)",
   "license": "MIT",
   "dependencies": {
+    "jstransform": "^8.2.0",
     "react-tools": "^0.12.1",
     "through2": "^0.6.3"
   }
