@@ -8,6 +8,7 @@ Usage:
 ```
 var rectify = require('re-define-react')({
     extensions: ['.js', '.jsx'] //defaults
+  , es6: true/false
   })
 ```
 
